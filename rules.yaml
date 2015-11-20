@@ -1,0 +1,90 @@
+---
+categories:
+  - name: General Appearance
+    rules:
+      - name: Good Posture
+        points: 2
+      - name: Clean Face and Hands
+        points: 2
+      - name: Combed Hair
+        points: 2
+      - name: Neatly Dressed
+        points: 2
+      - name: Clean Fingernails
+        points: 2
+  - name: Shirt
+    rules:
+      - name: Official Shirt
+        points: 4
+      - name: Clean
+        points: 2
+      - name: Buttoned Correctly
+        points: 2
+      - name: Tucked In
+        points: 2
+  - name: Pants
+    rules:
+      - name: Official Pants
+        points: 4
+      - name: Clean
+        points: 2
+      - name: No Wrinkles
+        points: 4
+  - name: Belt
+    rules:
+      - name: Official Belt
+        points: 2
+      - name: Clean
+        points: 1
+      - name: Worn Properly
+        points: 2
+  - name: Socks
+    rules:
+      - name: Official Socks
+        points: 3
+      - name: Worn Properly
+        points: 2
+  - name: Shoes
+    rules:
+      - name: Leather or Canvas
+        points: 2
+      - name: Neat and Clean
+        points: 3
+  - name: Registration
+    rules:
+      - name: Membership Card on Person
+        points: 5
+  - name: Merit Badge Sash
+    rules:
+      - name: "If Worn, Badges in Front"
+        points: 5
+  - name: Epaulets
+    rules:
+      - name: Green for Scouting
+        points: 5
+  - name: Right Sleeve
+    rules:
+      - name: US Flag Emblem
+        points: 3
+      - name: Patrol Emblem
+        points: 2
+  - name: Left Sleeve
+    rules:
+      - name: Council Patch
+        points: 2
+      - name: Troop Number
+        points: 2
+      - name: Badge of Office
+        points: 1
+  - name: Right Pocket
+    rules:
+      - name: "If Worn, Jamboree Patch Over BSA Strip"
+        points: 2
+      - name: "If Worn, OA Lodge Patch on Pocket Flap"
+        points: 3
+  - name: Left Pocket
+    rules:
+      - name: Badge of Rank
+        points: 4
+      - name: "If Worn, Arrow of Light Under Pocket"
+        points: 1

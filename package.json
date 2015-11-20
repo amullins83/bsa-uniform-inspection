@@ -1,0 +1,18 @@
+{
+  "engines": {
+    "node": "~3.3.0"
+  },
+  "repository": "https://github.com/amullins83/bsa-uniform-inspection",
+  "license": "MIT",
+  "author": {
+    "name": "Austin Mullins",
+    "email": "austin.mullins@gmail.com"
+  },
+  "dependencies": {
+    "express": "~4.0.0",
+    "pg": "*"
+  },
+  "devDependencies": {
+    "gulp": "*"
+  }
+}
